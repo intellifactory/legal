@@ -6,7 +6,7 @@ to ensure that our software with your contributions remains free to use.
 
 ## Reviewing the CLA document
 
-You can find the [IntelliFactory CLA document](cla.md) for your review in this repository.
+You can find the [IntelliFactory CLA document](CLA.md) for your review in this repository.
 
 ## Source code repositories governed by this CLA
 
